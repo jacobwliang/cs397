@@ -3,6 +3,10 @@ languageCode = "en-us"
 title     = "Jacob Liang – Resume"
 theme     = "PaperMod"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -48,5 +52,4 @@ theme     = "PaperMod"
     url        = "#hobbies"
     weight     = 6
 
-[params]
-  customCSS = ["css/custom.css"]
+
