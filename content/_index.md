@@ -28,7 +28,7 @@ description: "B.A. Computer Science & Cognitive Science ’27"
 </style>
 
 <img
-  src="/images/headshot.jpeg"
+  src="images/headshot.jpeg"
   alt="Headshot of Jacob"
   style="width:300px; border-radius:40%; float:inline-end; margin-left:1rem;"
 />
@@ -144,22 +144,22 @@ I enjoy spending time with my pets, staying active, playing music, and experimen
     class="w-20 h-20 object-cover rounded-lg"
   />
   <img
-    src="/images/momo.jpeg"
+    src="images/momo.jpeg"
     alt="Hanging out with Momo (cat)"
     class="w-20 h-20 object-cover rounded-lg"
   />
   <img
-    src="/images/volleyball.jpg"
+    src="images/volleyball.jpg"
     alt="Playing volleyball"
     class="w-20 h-20 object-cover rounded-lg"
   />
   <img
-    src="/images/violin.jpg"
+    src="images/violin.jpg"
     alt="Playing violin"
     class="w-20 h-20 object-cover rounded-lg"
   />
   <img
-    src="/images/coffee.jpeg"
+    src="images/coffee.jpeg"
     alt="Making coffee"
     class="w-20 h-20 object-cover rounded-lg"
   />
