@@ -60,6 +60,10 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+    caches:
+  images:
+    dir: ":cacheDir/images"
+
 
   # Deployment job
   deploy:
