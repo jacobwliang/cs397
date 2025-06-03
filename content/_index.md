@@ -139,7 +139,7 @@ I enjoy spending time with my pets, staying active, playing music, and experimen
 
 <div class="flex space-x-2 mt-4">
   <img
-    src="/images/sophie.jpeg"
+    src="images/sophie.jpeg"
     alt="Playing with Sophie (dog)"
     class="w-20 h-20 object-cover rounded-lg"
   />
