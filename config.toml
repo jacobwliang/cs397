@@ -1,0 +1,52 @@
+baseURL   = "https://example.com/"
+languageCode = "en-us"
+title     = "Jacob Liang – Resume"
+theme     = "PaperMod"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true       # allow raw HTML in your .md files
+    [markup.goldmark.parser]
+      attribute = true    # enable the `{.class}` syntax in Markdown
+
+[menu]
+
+  [[menu.main]]
+    identifier = "education"
+    name       = "Education"
+    url        = "#education"
+    weight     = 1
+
+  [[menu.main]]
+    identifier = "skills"
+    name       = "Skills"
+    url        = "#skills"
+    weight     = 2
+
+  [[menu.main]]
+    identifier = "experience"
+    name       = "Experience"
+    url        = "#experience"
+    weight     = 3
+
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "#projects"
+    weight     = 4
+
+  [[menu.main]]
+    identifier = "leadership"
+    name       = "Leadership"
+    url        = "#leadership"
+    weight     = 5
+  
+  [[menu.main]]
+    identifier = "hobbies"
+    name       = "Hobbies"
+    url        = "#hobbies"
+    weight     = 6
+
+[params]
+  customCSS = ["css/custom.css"]
